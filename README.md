@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/116c971b-21bb-4f08-9cfd-e10234547e77/deploy-status)](https://app.netlify.com/sites/folanne/deploys)
 
 # HTML and CSS Assessment
 
@@ -31,6 +31,7 @@ You are free to add more content and style it anyway you want. Below is some [ex
     1. Must be linked from `index.html`
     2. Import at least one font
 3. [Deployed to Netlify](https://docs.netlify.com/site-deploys/create-deploys/) and your [site's status badge](https://docs.netlify.com/monitor-sites/status-badges/) added to this file (`README.md`)
+
 
 ## How to submit
 
